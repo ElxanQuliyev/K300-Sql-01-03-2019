@@ -1,0 +1,10 @@
+C:\Users\Elxan\source\repos\Library-K300\Library-K300\bin\Debug\Library-K300.exe.config
+C:\Users\Elxan\source\repos\Library-K300\Library-K300\bin\Debug\Library-K300.exe
+C:\Users\Elxan\source\repos\Library-K300\Library-K300\bin\Debug\Library-K300.pdb
+C:\Users\Elxan\source\repos\Library-K300\Library-K300\obj\Debug\Library-K300.csprojAssemblyReference.cache
+C:\Users\Elxan\source\repos\Library-K300\Library-K300\obj\Debug\Library_K300.Form1.resources
+C:\Users\Elxan\source\repos\Library-K300\Library-K300\obj\Debug\Library_K300.Properties.Resources.resources
+C:\Users\Elxan\source\repos\Library-K300\Library-K300\obj\Debug\Library-K300.csproj.GenerateResource.cache
+C:\Users\Elxan\source\repos\Library-K300\Library-K300\obj\Debug\Library-K300.exe
+C:\Users\Elxan\source\repos\Library-K300\Library-K300\obj\Debug\Library-K300.pdb
+C:\Users\Elxan\source\repos\Library-K300\Library-K300\obj\Debug\Library_K300.AddReaders.resources
